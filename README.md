@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thushan D. Fernando and I'm an undergraduate, from University of Moratuwa</p>
+<p align="left">My name is Thushan and I'm an undergraduate, from the University of Moratuwa</p>
 
 ###
 
